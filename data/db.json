@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "James",
+      "lastName": "Gosling",
+      "email": "james@gmail.com",
+      "matNumber": "96378112",
+      "password": "123abc"
+    },
+    {
+      "id": 2,
+      "firstName": "Richard",
+      "lastName": "Dieyer",
+      "email": "richard@gmail.com",
+      "matNumber": "87322112",
+      "password": "0000293"
+    },
+    {
+      "id": 3,
+      "firstName": "john",
+      "lastName": "doe",
+      "email": "johndoe@gmail.com",
+      "matNumber": "12453678",
+      "password": "098765"
+    }
+  ]
+}
